@@ -22,9 +22,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sliceofchat.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://seeklogo.com/images/S/shrek-logo-ED7F2DD3D1-seeklogo.com.png
   name: Slice of Chat Service Status
-  introTitle: "This free service is based on the open-source **Upptime**."
+  introTitle: "For any problems, reach out to **Emanuel**."
   introMessage: Use this to see the current status of the services provided by Slice of Chat
   navbar:
     - title: Status
