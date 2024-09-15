@@ -1,10 +1,10 @@
 [
   {
     "name": "Main",
-    "url": "https://www.sliceofchat.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.sliceofchat.com.ico",
+    "url": "$URL_1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "Mattermost",
-    "url": "https://mattermost.sliceofchat.com",
-    "icon": "https://icons.duckduckgo.com/ip3/mattermost.sliceofchat.com.ico",
+    "url": "$URL_2",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   }
 ]
